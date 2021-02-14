@@ -50,4 +50,5 @@ class Song
     song.artist = artist_name
     song
     song.save
+  end
 end
